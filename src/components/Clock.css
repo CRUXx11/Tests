@@ -1,0 +1,63 @@
+.Clk{
+    margin-left: 35%;
+    width: 425px;
+    height: 610px;
+    background-color:white;
+    color: white;
+    border-radius: 50px;
+    border:solid;
+    border-color: black;
+   
+}
+.top{
+    background-color: black;
+    height: 100px;
+    width: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-right-radius: 45px;
+    border-top-left-radius: 45px;
+    font-size: 40px;
+}
+.togg{
+    color: black;
+    height: 100px;
+    width: 416px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    background-color: lightblue;
+}
+.popo{
+    margin-top: 35px;
+    margin-left: 15%;
+    cursor: pointer;
+    background-color: black;
+    color: violet;
+    height: 300px;
+    width:300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border:solid;
+    border-color: rgb(56, 20, 20);
+    border-width: 25px;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mid{
+    background-color: lightblue;
+    height: 403px;
+    margin-top: -35px;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+.togg svg{
+    margin-top: 10px;
+    cursor: pointer;
+}
